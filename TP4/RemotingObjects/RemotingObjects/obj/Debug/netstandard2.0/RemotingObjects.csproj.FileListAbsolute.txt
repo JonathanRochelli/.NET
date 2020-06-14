@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\RemotingObjects\RemotingObjects\bin\Debug\netstandard2.0\RemotingObjects.deps.json
+C:\Users\Admin\source\repos\RemotingObjects\RemotingObjects\bin\Debug\netstandard2.0\RemotingObjects.dll
+C:\Users\Admin\source\repos\RemotingObjects\RemotingObjects\bin\Debug\netstandard2.0\RemotingObjects.pdb
+C:\Users\Admin\source\repos\RemotingObjects\RemotingObjects\obj\Debug\netstandard2.0\RemotingObjects.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\RemotingObjects\RemotingObjects\obj\Debug\netstandard2.0\RemotingObjects.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RemotingObjects\RemotingObjects\obj\Debug\netstandard2.0\RemotingObjects.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RemotingObjects\RemotingObjects\obj\Debug\netstandard2.0\RemotingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RemotingObjects\RemotingObjects\obj\Debug\netstandard2.0\RemotingObjects.dll
+C:\Users\Admin\source\repos\RemotingObjects\RemotingObjects\obj\Debug\netstandard2.0\RemotingObjects.pdb
